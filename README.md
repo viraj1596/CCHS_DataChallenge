@@ -8,3 +8,6 @@ The participants were given data from Canadian Community Health Survey and the c
 - The odds of developing CVD is 61.61% higher among people with OA who are single or single and never married than all others.
 - The odds of developing CVD is 61.61% higher among people with OA who are single or single and never married than all others.
 Further supplemented the findings by drafting a social campaign to raise awareness around prevention/care measures.
+
+
+https://www.dropbox.com/sh/nkv50ix1oq5m34n/AADLyo2VFy89IZT3NtSHcDDca?dl=0
